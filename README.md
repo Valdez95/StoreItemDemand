@@ -6,7 +6,7 @@ Predict 3 months worth of item sales at different stores. This data comes from t
 ## Files
 StoreItemDemand.R contains EDA, the methods for feature engineering, and various models that I used for predictions.
 
-## Featuree Engineering
+## Feature Engineering
 Feature engineering came from separating my datetime object into time, day, week, month, and year variables. 
 
 ## Methods
