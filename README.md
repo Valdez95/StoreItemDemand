@@ -10,4 +10,4 @@ StoreItemDemand.R contains EDA, the methods for feature engineering, and various
 Feature engineering came from separating my datetime object into time, day, week, month, and year variables. 
 
 ## Methods
-I used TBATS, Arima, and Facebooks Prophet package to create prediction models on this data set.
+I used TBATS, Arima, and Facebook's Prophet package to create prediction models on this data set.
