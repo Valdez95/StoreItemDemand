@@ -1,4 +1,5 @@
 # StoreItemDemand
+https://www.kaggle.com/c/demand-forecasting-kernels-only/overview
 
 ## Purpose
 Predict 3 months worth of item sales at different stores. This data comes from the Store Item Demand Kaggle Competition.
